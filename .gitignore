@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Jest coverage output
+coverage/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: ignore build artifacts (if you build/compile)
+dist/
+build/
+
+# Optional: ignore test output or snapshots if undesired
+*.test.js.snap

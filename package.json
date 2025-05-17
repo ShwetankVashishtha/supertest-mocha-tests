@@ -1,0 +1,25 @@
+{
+  "name": "supertest-mocha-tests",
+  "version": "1.0.0",
+  "description": "This project contains automated API tests built using [Supertest](https://github.com/visionmedia/supertest) and [Mocha](https://mochajs.org/) in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShwetankVashishtha/supertest-mocha-tests.git"
+  },
+  "author": "Shwetank Vashishtha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShwetankVashishtha/supertest-mocha-tests/issues"
+  },
+  "homepage": "https://github.com/ShwetankVashishtha/supertest-mocha-tests#readme",
+  "devDependencies": {
+    "chai": "^5.2.0",
+    "express": "^5.1.0",
+    "mocha": "^11.3.0",
+    "supertest": "^7.1.1"
+  }
+}
